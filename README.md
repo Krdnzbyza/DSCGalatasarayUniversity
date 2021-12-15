@@ -1,5 +1,5 @@
-# dsc_gs_widgets
-
+# dsc_gds_widgets
+Flutter Widget-2
 Flutter Camp 3. günü
 Sunum : https://www.canva.com/design/DAEyW2DnrcM/7u_D0ggma2CPzrPNv8TqqQ/view?utm_content=DAEyW2DnrcM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
